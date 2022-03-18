@@ -12,9 +12,7 @@ Install...!
 
 ## Usage
 
-Convert PyQt5 designed **.ui** files into **.py** files  
-&  
-**.qrc** files into **.py**
+Convert PyQt5 designed **.ui** files into **.py** files & **.qrc** files into **.py**
 
 #
 >**Licence**

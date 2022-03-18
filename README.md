@@ -12,6 +12,7 @@ Unzip **QT5 Converter.zip** Run **QT5 Converter.exe** & Install...!
 
 Convert PyQt5 designed **.ui** files into **.py** files & **.qrc** files into **.py**
 
+#
 >**Licence**
 DARKSOULx69/DARKSOULx69-QT5Converter is licensed under the  
 [GNU General Public License v3.0](https://github.com/DARKSOULx69/DARKSOULx69-QT5Converter/blob/main/LICENSE)  

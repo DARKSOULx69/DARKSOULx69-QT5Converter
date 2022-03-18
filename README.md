@@ -1,4 +1,4 @@
-# QT5 Converter (Beta) by DARKSOULx69
+># QT5 Converter (Beta) by DARKSOULx69
 
 PyQt5 Gui based application for convert **.ui** files into **.py** & **.qrc** files into **.py.**
 

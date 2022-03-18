@@ -1,16 +1,12 @@
 # QT5 Converter by DARKSOULx69
 
-
-
 PyQt5 Gui based application for conver .ui files into .py & .qrc files into .py.
 
 ![Alt text](ui.png?raw=true "Title")
 
 ## Installation
 
-Run QT5 Converter.exe
-
-Install...!
+Run QT5 Converter.exe & Install...!
 
 ## Usage
 

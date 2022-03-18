@@ -1,6 +1,4 @@
-# DARKSOULx69-QT5Converter
-
-# QT5 Converter
+# QT5 Converter by DARKSOULx69
 
 PyQt5 Gui based application for conver .ui files into .py & .qrc files into .py.
 

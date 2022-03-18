@@ -6,7 +6,7 @@ PyQt5 Gui based application for convert **.ui** files into **.py** & **.qrc** fi
 
 ## Installation
 
-**Run QT5 Converter.exe & Install...!***
+Run **QT5 Converter.exe** & Install...!
 
 ## Usage
 
